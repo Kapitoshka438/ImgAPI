@@ -28,3 +28,11 @@ For Linux and Mac OS run the following commands in Terminal:
 3. Usage
 
 Open "localhost:8080" in your web browser.
+
+![ImgAPI Demo Application](screenshot.png?raw=true)
+
+Press the "Choose file" button and choose an image from your machine.  
+Press the "Upload image" to upload the chosen file.  
+Now you can see the uploaded image in the list of images of the main screen.  
+You can Resize, Crop and Rotate images from the list, also using the combinations of these operations and change the format of them.  
+You can change the default parameters of these operations in the URL path.
